@@ -1,0 +1,235 @@
+# Copyright (C) 2014 WP FetLife Importer
+# This file is distributed under the same license as the WP FetLife Importer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP FetLife Importer 0.2.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-fetlife-importer\n"
+"POT-Creation-Date: 2014-08-12 22:27:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-fetlife-importer.php:124
+msgid "Failed to log in to FetLife. Wait a bit and try again."
+msgstr ""
+
+#: wp-fetlife-importer.php:134
+msgid "about my life and journey"
+msgstr ""
+
+#: wp-fetlife-importer.php:137
+msgid "that I have written"
+msgstr ""
+
+#: wp-fetlife-importer.php:140
+msgid "about random stuff"
+msgstr ""
+
+#: wp-fetlife-importer.php:242
+msgid "All done."
+msgstr ""
+
+#: wp-fetlife-importer.php:242
+msgid "Have fun!"
+msgstr ""
+
+#: wp-fetlife-importer.php:243
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: wp-fetlife-importer.php:244
+msgid ""
+"If you need more help <a href=\"http://maybemaimed.com/escape-from-fetlife/"
+"\">escaping FetLife</a>, <a href=\"http://maybemaimed.com/seminars/#booking-"
+"inquiry\">just ask</a>!"
+msgstr ""
+
+#: wp-fetlife-importer.php:285
+msgid "Assign Authors"
+msgstr ""
+
+#: wp-fetlife-importer.php:286
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: wp-fetlife-importer.php:288
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: wp-fetlife-importer.php:298
+msgid "Import Pictures"
+msgstr ""
+
+#: wp-fetlife-importer.php:301
+msgid "Download and import Pictures from FetLife"
+msgstr ""
+
+#: wp-fetlife-importer.php:308
+msgid "Submit"
+msgstr ""
+
+#: wp-fetlife-importer.php:321
+msgid "Import author:"
+msgstr ""
+
+#: wp-fetlife-importer.php:332
+msgid "or create new user with login name:"
+msgstr ""
+
+#: wp-fetlife-importer.php:335
+msgid "as a new user:"
+msgstr ""
+
+#: wp-fetlife-importer.php:343
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: wp-fetlife-importer.php:345
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: wp-fetlife-importer.php:346
+msgid "- Select -"
+msgstr ""
+
+#: wp-fetlife-importer.php:386
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: wp-fetlife-importer.php:435
+msgid "Failed to import category %s"
+msgstr ""
+
+#: wp-fetlife-importer.php:457
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: wp-fetlife-importer.php:478
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: wp-fetlife-importer.php:533
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: wp-fetlife-importer.php:561
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: wp-fetlife-importer.php:658
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: wp-fetlife-importer.php:671
+msgid "Invalid file type"
+msgstr ""
+
+#: wp-fetlife-importer.php:715
+msgid "Remote server did not respond"
+msgstr ""
+
+#: wp-fetlife-importer.php:721
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: wp-fetlife-importer.php:728
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: wp-fetlife-importer.php:733
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: wp-fetlife-importer.php:739
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#. #-#-#-#-#  wp-fetlife-importer.pot (WP FetLife Importer 0.2.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp-fetlife-importer.php:757
+msgid "WP FetLife Importer"
+msgstr ""
+
+#: wp-fetlife-importer.php:764
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: wp-fetlife-importer.php:772
+msgid ""
+"This tool is brought to you courtesy of %1$smaymay&rsquo;s foresight%2$s. "
+"Please consider %3$smaking a donation%2$s. If you want to keep a backup of "
+"your entire FetLife account history, try %4$sthis free FetLife Exporter%2$s."
+msgstr ""
+
+#: wp-fetlife-importer.php:785
+msgid ""
+"Howdy! Enter your FetLife connection details and I&rsquo;ll import your "
+"Writings as WordPress Posts."
+msgstr ""
+
+#: wp-fetlife-importer.php:789
+msgid "FetLife nickname"
+msgstr ""
+
+#: wp-fetlife-importer.php:790
+msgid "Enter your FetLife nickname"
+msgstr ""
+
+#: wp-fetlife-importer.php:793
+msgid "FetLife password"
+msgstr ""
+
+#: wp-fetlife-importer.php:794
+msgid "Enter your FetLife password"
+msgstr ""
+
+#: wp-fetlife-importer.php:797
+msgid "Proxy URL"
+msgstr ""
+
+#: wp-fetlife-importer.php:799
+msgid ""
+"If you need to use a proxy to connect to FetLife, enter its URL here. "
+"Otherwise, leave this blank to make a direct connection."
+msgstr ""
+
+#: wp-fetlife-importer.php:801
+msgid "Connect to FetLife and import"
+msgstr ""
+
+#: wp-fetlife-importer.php:876
+msgid "Import your FetLife Writings to your WordPress blog as posts."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://maybemaimed.com/2013/03/05/ready-to-ditch-fetlife-tools-to-make-the-"
+"transition-easier/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Import your FetLife Writings and Pictures to your WordPress blog as posts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "maymay"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://maybemaimed.com/cyberbusking/"
+msgstr ""
